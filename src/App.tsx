@@ -9,7 +9,7 @@ function App() {
 // const ProductObj:ProductType = {id:1,title:"Samsung",price:3121};
 
 const products:ProductType[] =[
-  {id:1,title:"Samsung",price:3121},
+  {id:1,title:"Samsung S5252",price:3121},
   {id:2,title:"bitphone",price:31221}
 ];
 
